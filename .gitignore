@@ -4,3 +4,6 @@ __pycache__/
 
 # Ignore macOS .DS_Store file
 .DS_Store
+
+# Ignore run/
+runs/**
